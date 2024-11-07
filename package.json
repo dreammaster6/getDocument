@@ -1,0 +1,11 @@
+{
+  "name": "getdocument",
+  "version": "1.0.0",
+  "description": "this is a tool for get document of something what is you want get params when you programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lzh",
+  "license": "ISC"
+}
